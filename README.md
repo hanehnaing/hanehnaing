@@ -1,7 +1,7 @@
 # Hi there, I'm Hane 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/hanehnaing?label=Follow&style=social)](https://github.com/hanehnaing)
 
 🎓 **4th-year Computer Networking Student** 
 🔐 **Cybersecurity Rookie** | 🚀 Learning Penetration Testing & Network Security  
