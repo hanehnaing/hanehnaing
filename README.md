@@ -59,7 +59,7 @@ Comming Soon
 
 ## 📫 How to reach me
 - 📧 Email: hhnhhnhhn369@gmail.com
-- 💼 LinkedIn: ([https://linkedin.com/in/your-link](https://www.linkedin.com/in/hein-htet-naing-a04bbb17a ))
+- 💼 LinkedIn: ([https://linkedin.com/in/Hane Htet Naing](https://www.linkedin.com/in/hein-htet-naing-a04bbb17a ))
 
 ---
 
