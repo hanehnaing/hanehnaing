@@ -43,11 +43,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)[Automating Network Device Configuration Backup  Restore with Ansible](https://github.com/hanehnaing/Automating-Network-Device-Configuration-Backup-Restore-with-Ansible)
+[Automating Network Device Configuration Backup  Restore with Ansible](https://github.com/hanehnaing/Automating-Network-Device-Configuration-Backup-Restore-with-Ansible)
 
 ---
 
