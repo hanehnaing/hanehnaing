@@ -47,8 +47,7 @@
 ---
 
 ## 📌 Featured Projects
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-[Automating Network Device Configuration Backup  Restore with Ansible](https://github.com/hanehnaing/Automating-Network-Device-Configuration-Backup-Restore-with-Ansible)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)[Automating Network Device Configuration Backup  Restore with Ansible](https://github.com/hanehnaing/Automating-Network-Device-Configuration-Backup-Restore-with-Ansible)
 
 ---
 
